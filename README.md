@@ -42,4 +42,4 @@ The page at minimum includes all of the following interactions:
 - **displayCard**: add the "open" and "show" css class to the elements.
 - **closeUnmatchedCards**: add the "unmatch" css class to the elements. Then "turn them back" by removing the "unmatch", "show" and "open" class.
 - **main**: to initalise the game makeGame() and reset the time from the previous game to 0.
-- **shuffle**: provided from template by [Fisher-Yates (aka Knuth) Shuffle](http://stackoverflow.com/a/2450976).
+- **shuffle**: provided by the template sourced from [Fisher-Yates (aka Knuth) Shuffle](http://stackoverflow.com/a/2450976).
